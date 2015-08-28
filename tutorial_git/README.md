@@ -9,4 +9,4 @@ python -m bash_kernel.install
 
 That said, **it is highly recommended that you follow along by copying the statements we go through into the command line** (i.e., in your terminal window) and running them there. However, if you want to still use the IPython notebook editor to edit the toy python file we'll be using in the example, then you can run `ipython notebook` to get started.
 
-*If you don't already have *`git`* installed, you can get it by following [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).*
+*If you don't already have* `git` *installed, you can get it by following [these instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).*
